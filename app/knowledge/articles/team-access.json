@@ -1,0 +1,9 @@
+{
+  "id": "team-access",
+  "title": "Studio seats and workspace roles",
+  "summary": "Understand team seats, admin permissions, and client guest access.",
+  "excerpts": [
+    "The workspace owner can invite teammates in Settings > Team. Owners, admins, and members each occupy a studio seat. Starter includes 1 studio seat, the Studio plan includes 3, and Office includes 8.",
+    "Owners manage billing, data exports, and workspace deletion. Admins manage projects and client portal access. Members work on the projects they are assigned to. Invited clients see only their project's published portal content."
+  ]
+}

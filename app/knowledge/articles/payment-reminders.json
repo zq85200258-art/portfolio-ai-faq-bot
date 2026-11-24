@@ -1,0 +1,9 @@
+{
+  "id": "payment-reminders",
+  "title": "Payment reminders and external invoices",
+  "summary": "Track client invoices and send manual or scheduled email reminders.",
+  "excerpts": [
+    "Add a client invoice reference, amount, due date, and optional payment link to a project. LumenDesk tracks payment status and sends reminders. Clients pay through the payment service linked on your invoice.",
+    "You can send a payment reminder manually or enable automatic email reminders per project. The default schedule sends one reminder on the due date and another seven days later if the invoice is still unpaid. Mark an invoice as paid to stop its reminders."
+  ]
+}

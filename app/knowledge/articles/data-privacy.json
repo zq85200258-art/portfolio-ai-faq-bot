@@ -1,0 +1,10 @@
+{
+  "id": "data-privacy",
+  "title": "Privacy, exports, and workspace deletion",
+  "summary": "Control who sees project information and export or delete a workspace.",
+  "excerpts": [
+    "Workspace content is private to studio members unless it is published to a client's project portal. A client invitation grants access to that project's published content only.",
+    "Workspace owners can download a ZIP export from Settings > Data while the workspace is active. It contains project records in JSON and copies of uploaded files. Export any records you need before deleting the workspace.",
+    "The workspace owner can request deletion in Settings > Data. Deletion revokes workspace and portal access. Backups containing deleted data expire within 30 days."
+  ]
+}

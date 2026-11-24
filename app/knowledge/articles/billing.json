@@ -1,0 +1,10 @@
+{
+  "id": "billing",
+  "title": "Billing, plan changes, and cancellation",
+  "summary": "When your subscription renews and what happens if you change or cancel your plan.",
+  "excerpts": [
+    "Paid subscriptions renew monthly on your billing date. Workspace owners can find receipts, change the payment card, and view the next renewal date in Settings > Billing.",
+    "Plan upgrades take effect immediately with a prorated charge for the rest of the billing period. Downgrades start at the next renewal if your workspace fits the new seat and active project limits.",
+    "Workspace owners can cancel from Settings > Billing. The workspace stays available until the end of the current paid period. Cancellation stops renewal and does not automatically refund the current period. Export your data before access ends."
+  ]
+}

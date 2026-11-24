@@ -1,0 +1,9 @@
+{
+  "id": "browser-support",
+  "title": "Supported browsers and devices",
+  "summary": "Browser requirements for studio workspaces and client portals.",
+  "excerpts": [
+    "LumenDesk supports the current stable versions of Chrome, Edge, Firefox, and Safari. Workspaces and client portals run in the browser with JavaScript and cookies enabled.",
+    "Client portals support mobile Safari and Chrome. Studio members can review project updates in a mobile browser. Use a desktop browser when editing long proposals or scope documents."
+  ]
+}

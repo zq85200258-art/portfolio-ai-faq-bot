@@ -1,0 +1,9 @@
+{
+  "id": "scope",
+  "title": "Tracking scope and change requests",
+  "summary": "Document project deliverables and share changes for client review.",
+  "excerpts": [
+    "Use the Scope tab to list deliverables, revision limits, and due dates. Publish the agreed scope to the client portal so both sides can see the same version.",
+    "When a client asks for extra work, add a change request with the proposed impact on cost and timing. Share it through the portal for approval before you update the agreed scope."
+  ]
+}

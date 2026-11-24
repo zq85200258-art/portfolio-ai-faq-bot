@@ -1,0 +1,10 @@
+{
+  "id": "client-portals",
+  "title": "Client portal access and invitations",
+  "summary": "Invite clients, control what they see, and revoke project access.",
+  "excerpts": [
+    "To invite a client, open a project, select Client Portal, and enter their email address. They open the portal with a one-time sign-in link that expires after 15 minutes. Clients do not need a LumenDesk account.",
+    "Clients can see published proposals, scope, updates, and payment status in their project portal. Internal drafts and notes stay in the studio workspace.",
+    "Workspace owners and admins can revoke a client's access from the project's Client Portal settings. Client guests do not use seats on any paid plan."
+  ]
+}

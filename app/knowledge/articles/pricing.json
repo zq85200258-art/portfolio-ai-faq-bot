@@ -1,0 +1,10 @@
+{
+  "id": "pricing",
+  "title": "Pricing and plan limits",
+  "summary": "Compare Starter, Studio, and Office monthly prices, seats, and active projects.",
+  "excerpts": [
+    "LumenDesk plan prices are in USD per workspace per month. Starter costs $19 and includes 1 studio seat and 3 active projects. The Studio plan costs $49 and includes 3 studio seats and 15 active projects. Office costs $99 and includes 8 studio seats and 50 active projects.",
+    "All paid plans include proposals, scope tracking, project updates, client portals, and payment reminders. Client guests do not count toward your seat limit. Archived projects do not count toward your active project limit.",
+    "New workspaces get a free 14-day trial with Studio plan limits and no payment card required. The trial does not start a paid subscription automatically. Choose a paid plan from Settings > Billing to keep using the workspace after the trial."
+  ]
+}

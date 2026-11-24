@@ -1,0 +1,9 @@
+{
+  "id": "project-updates",
+  "title": "Writing and publishing project updates",
+  "summary": "Keep clients informed with status updates, milestones, and next steps.",
+  "excerpts": [
+    "Use a project update to share a milestone, a timeline change, or a request for client feedback. In a project, open Updates and choose New Update to write a summary and next steps.",
+    "Save an update as a draft to keep it visible to your studio only. Publish the update to make it visible in the client portal. Choose Notify clients at publish time to send an email to invited clients."
+  ]
+}

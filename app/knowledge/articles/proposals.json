@@ -1,0 +1,9 @@
+{
+  "id": "proposals",
+  "title": "Creating and approving proposals",
+  "summary": "Prepare a proposal for review and record client approval in the portal.",
+  "excerpts": [
+    "Create a proposal from the Proposals tab inside a project. Add an overview, deliverables, fees, and estimated dates. The proposal stays in your workspace until you publish it.",
+    "Clients can review a published proposal in their portal, approve it, or request changes. LumenDesk records the approval and the time it was submitted. For a signed contract, use your separate e-signature workflow."
+  ]
+}
